@@ -589,8 +589,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -2310,13 +2310,13 @@ body {
   color: #f7ed4a;
 }
 .cid-rxr1GDlWRF {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #bca287;
 }
 .cid-rxr1GDlWRF .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #787324;
+  color: #787324;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2928,10 +2928,11 @@ body {
 .cid-rxpM3iyELC {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #ff5233;
 }
 .cid-rxpM3iyELC .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rxpM3AkacC {
   padding-top: 60px;
@@ -2948,6 +2949,58 @@ body {
 }
 .cid-rxpM3G82dA .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
+}
+.cid-rxwybxofs8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwybxofs8 .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-rxwyblYJs2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwyblYJs2 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rxwAT7uvuY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwAT7uvuY .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-rxwE5Fev6c {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwE5Fev6c .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rxwCVpIhZQ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwCVpIhZQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rxwENoqBst {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rxwENoqBst .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
 }
 .cid-rxqXYdqH5V {
   padding-top: 30px;
